@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    puts("Acho que agora aprendo C.");
+    return 0;
+}
